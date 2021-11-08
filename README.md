@@ -1,3 +1,5 @@
+Formulario realizado en Formik con yup. El mismo cuenta con validaciones basicas en cada campo del formulario.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
